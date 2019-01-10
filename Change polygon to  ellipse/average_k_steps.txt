@@ -1,0 +1,5 @@
+number of vertices                 steps
+5			48.64
+10			197.19
+20			770.16
+40			2967.0				  
